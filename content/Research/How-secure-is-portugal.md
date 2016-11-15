@@ -16,7 +16,7 @@ Although these are contradictory concepts, my thesis is that Portugal is both hi
 
 Portugal is safe is because there are not enough attackers targeting the current insecurities of the system. This will probably remain the case for the next couple of years. The problem is what happens after that, when the criminals improve their business models and start to focus on Portuguese assets.
 
-I would argue that Portugal has already been a victim of certain kinds of financial manipulation. If you look at what happened during the financial crisis, a substantial part of it was artificially created by the markets. The markets pushed the Portuguese economy hard and made a lot of money by betting that Portugal was going to struggle, and would continue to struggle, in the financial markets.
+
 
 The AppSec industry in Portugal is comparatively small. There are very few Portuguese companies with public AppSec teams. The market for security companies is small, and while there are a couple of interesting pen testing companies, you don't see a lot of activity in that space.
 
