@@ -53,22 +53,8 @@ Amazon is a great model for PT (Shopping, AWS, logistics). How many senior and e
   * to be a Powerhouse of Technology that inspires and leads the world in secure coding?
   * the CPLP (Comunidade dos Países de Língua Portuguesa - Community of the Portuguese Speaking Countries) is a massive opportunity and asset (embrace, educate, market, and secure them)
   
-The Software, InfoSec and Hacking community has a strong ethical foundation, based on the following qualities:
-  * sharing
-  * respect
-  * friendship
-  * trust
-  * non-discrimination
-  * humanity and companionship
 
-We want to inspire the next generation with these values. To do this, we need to provide an alternative narrative to the current mainstream narrative of 'lies', 'non-experts-welcome' and 'infotainment'.
 
-  * "Great minds discuss ideas; average minds discuss events; small minds discuss people." (see http://quoteinvestigator.com/2014/11/18/great-minds)
-  
-* But, our alternative also has strong qualities, namely:
-  * business/commercial understanding
-  * money generation capabilities (outside of the 'proprietary and lock-in' business models)
-  * understanding that profit is good and healthy
 
 * story of the 'small coffee spoons' that are used in PT for espresso, and should be easy to find in the UK, but I can't find them
 * I want to be able to buy 'Oranges from the Algarve' and get them delivered to London
